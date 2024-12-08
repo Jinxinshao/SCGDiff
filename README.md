@@ -1,2 +1,2 @@
-# SCGDiff: A Comprehensive Framework for Enhancing Underwater Images by Utilizing a Gradient-Guided Diffusion Model Based on Swin Convolution Blocks
-This is the supporting material for SCGDiff: A Comprehensive Framework for Enhancing Underwater Images by Utilizing a Gradient-Guided Diffusion Model Based on Swin Convolution Blocks, including code source code, data sets, and processed data renderings. 
+# Region Gradient-Guided Diffusion Model for Underwater Image Enhancement
+This is the supporting material for Region Gradient-Guided Diffusion Model for Underwater Image Enhancement, including code source code, data sets, and processed data renderings. 
